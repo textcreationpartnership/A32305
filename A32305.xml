@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message from His Highness the Prince of Wales to His Majesty, and the Commissioners in the Isle of Wight with his declaration concerning the Earl of Warwick, and the Parliaments fleet : also, a letter from Lieut. Gen. Cromwell to the committee at Derby House ...</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32305</idno>
+            <idno type="STC">Wing C3123</idno>
+            <idno type="STC">ESTC R35492</idno>
+            <idno type="EEBO-CITATION">15345547</idno>
+            <idno type="OCLC">ocm 15345547</idno>
+            <idno type="VID">103446</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103446)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1147:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message from His Highness the Prince of Wales to His Majesty, and the Commissioners in the Isle of Wight with his declaration concerning the Earl of Warwick, and the Parliaments fleet : also, a letter from Lieut. Gen. Cromwell to the committee at Derby House ...</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Lawrenson ...,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>Octob. 6,  1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103446:1"/>
+            <pb facs="tcp:103446:1"/>
+            <p>A MESSAGE From his Highneſs the Prince of WALES TO His Majeſty, and the Commiſſioners in the Iſle of <hi>Wight.</hi> VVith His Declaration concerning the Earl of <hi>Warwick,</hi> and the Parliaments FLEET.</p>
+            <p>Alſo, a Letter from Lieut. Gen. <hi>Cromwell,</hi> to the Com<g ref="char:EOLhyphen"/>mittee at <hi>Derby</hi> houſe, concerning the Treaty with his Majeſty, and his advice touch<g ref="char:EOLhyphen"/>ing the ſame.</p>
+            <p>With a Journal of the laſt weeks proceedings between his Majeſty, and the Commiſſioners, in the ſaid Treaty, and how far his Majeſty com<g ref="char:EOLhyphen"/>plies, in ſigning of the reſt of the Propoſitions.</p>
+            <p>Printed for <hi>G. Lawrenſon,</hi> and are to be ſold neer Temple-Bar, <hi>Octob.</hi> 6. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:103446:2"/>
+            <pb n="1" facs="tcp:103446:2"/>
+            <head>A LETTER FROM THE NAVY</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Earl of <hi>Warwick</hi> Lord high Admiral with a Navy of 22 ſayl of ſhips hath continued a<g ref="char:EOLhyphen"/>bout 8 days in <hi>Goree</hi> Road, attending the mo<g ref="char:EOLhyphen"/>tion of the revolted ſhips, or rather perſwade them to return to their obedience to the <hi>Parl.</hi> or daring them to fight; but as yet neither ſummons, or other perſwa<g ref="char:EOLhyphen"/>ſions hath been prevalent.</p>
+            <p>And one that comes from the Prince, ſaith, <q>That His Highneſs cauſed a Councell to be called, &amp; adviſed with his Officers of a way to unite the Sea-men of the revolted
+<pb n="2" facs="tcp:103446:3"/>ſhips; and it was agreed, that every chief Officer in the ſhips ſhould declare, that His Highneſſe had procured 6000 <hi>li.</hi> in Gold, which they ſhould have amongst them, with many other promiſes and perſwaſions, that the treaty would end all differences, both by Sea and Land, and then they ſhould come off with more honour, then accepting of an Act of Indempnity now; and finding that the Saylers were ſomwhat pacified for the preſent, the Prince ſent a Meſsage to the Lord Admirall, declaring his great diſlike that his Lordſhip ſhould endeavour any way to draw His ſervants from Him, requiring him to deſiſt for the future to do the like, and come and joyn with Him; which doing, He would procure a pardon for him from the King His Royall Father.</q>
+            </p>
+            <p>
+               <q>The L. Admirall anſwered, that he takes it in diſhonor that either in himſelf, or any others, there ſhould be the leaſt thought of his breaking the trust repoſed in him; ac<g ref="char:EOLhyphen"/>quainting his Highneſse, that if he were expoſed to the greateſt extremity that is incident to man, he would ne<g ref="char:EOLhyphen"/>ver diſsert the <hi>Parliaments</hi> ſervice; and being in a good condition at Sea, his advice to the Prince was, to come &amp; joyn with the <hi>Parl,</hi> but its thought nothing will be e<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ected till its known how the treaty goes, and we hear that Sir <hi>T. Lunsford</hi> hath bin lately diſpatcht privately from the <hi>Bruce</hi> for the Iſle of <hi>VVight</hi> upon ſome Meſsage to the King, or for ſome inſtructions or advice from thoſe that attend his Mai this treaty.</q>
+            </p>
+            <p>By other intelligence we likewiſe hear, that M. <hi>Mur<g ref="char:EOLhyphen"/>rey</hi> is gone for <hi>England,</hi> but upon what Deſign as yet, we cannot hear.</p>
+            <p>Some of our ſhips ride within two leagues of the
+<pb facs="tcp:103446:3"/>revolted ſhips, with whom we would fain ingage, but as yet cannot; for the <hi>Hollander</hi> inſtead of ſecuring thoſe revolted ſhips the parl. of <hi>England</hi> (a ſervice which in ſome meaſure might well be expected at their hands) by holding a neutrality, ſay they will pre<g ref="char:EOLhyphen"/>vent acts of hoſtility neer unto their parts, though it were never ſo many for promoting the affaires of the Parliament. Some aſſiſtance of Volunteers is ſaid to be expected from Denmarke which hath beene long ſpoken of and is ſtill likely, to be as ſlowly performed for we hear of none that come to the revolted ſhips, but ſome few which fled out of England, who are like to have as good a match by comming over to join with them, that are like to mutiny among themſelves as the Hollanders had by coveting and engroſſing the new Gold that of late they got out of England, or as thoſe which adventured 7000 li. Armes to recrute Duke Hambletons forces, which were taken the laſt week going for Scotland, I have now done with ſuch paſſages as are remarkable here, a word or two of two of ſome Letters we receive out of Ireland and ſo conclude. By an Expreſſe from London Derry it is certified how exceeding oppertunely Collonel Monk ſurpriſed the Scots at Belfoſt and other places by wch meanes the Engliſh have not only gotten more Elbow room in fruitfull parts of that Kingdome, but the poor Engliſh which were likely to periſh by the in<g ref="char:EOLhyphen"/>ſolent revolted Scots in Loncon Derry relieved, for the Scots of that Garriſon being farre more in number then the Engliſh and ſtanding to their principles for the Parliament of England, the Scots declared for the King deteyned the Lord preſident got moſt of the pro<g ref="char:EOLhyphen"/>viſions into their own Quarters and ſtopped others from comming in either by Sea or Land.</p>
+            <pb n="4" facs="tcp:103446:4"/>
+            <p> And had not this unexpected deliverance thus ſudden<g ref="char:EOLhyphen"/>ly hapned, in all probability the Scots in a very ſhort time had been the ſole maſters of that City, which (ſetting aſide the particular intereſt the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> hath there) is of great concernment, and conduceth much to the loſſe or gain of two or three Provinces in the North of <hi>Ireland.</hi>
+            </p>
+            <closer>
+               <dateline>From aboard the Admirall <date>Octob. 2. 648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <p>SInce the writing hereof, our Fleet is gotten within one league of the revolted ſhips, and have made many ſhot at them; whereupon the ſoul<g ref="char:EOLhyphen"/>diers which appertain to the revolted ſhips, (being about 400 land men) brought out ſeverall pieces of Ordnance ready mounted, and would have planted them againſt the Earle of Warwicks ſhips on that ſhore, but the Hollander cauſed them to draw the Ordnance again into the Harbour, and would not ſuffer them to annoy us therewith.</p>
+               <p>And ſome of the townſmen tell us, that they are weary of maintaining ſo many ſhips and men in their harbour, as are with the Prince, and therfore it is expected, that the Governour of the town
+<pb n="5" facs="tcp:103446:4"/>ſhould prefix a day how long the ſaid revolted ſhips ſhall have liberty to ſtay in their protection, wherby to make their agreement with the Lord Ad<g ref="char:EOLhyphen"/>mirall, or adventure their fortunes on the main O<g ref="char:EOLhyphen"/>cean. I am</p>
+               <closer>
+                  <dateline>Gory Road <date>3 Octob. 1648.</date>
+                  </dateline>
+                  <signed>Your affectionate friend, <hi>S T.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <date>Die Sabbati 7. Octob. 1648.</date>
+               </dateline>
+            </opener>
+            <p>A Letter came to the Committee at <hi>Derby</hi> houſe, from Lieu. Gen. <hi>Cromwell,</hi> certifying that <hi>Barwick</hi> and <hi>Carliſle</hi> were delivered up to him, for the ſervice of the parliament, all arms laying down in <hi>Scotland,</hi> &amp; to the end all differences may be compoſed in <hi>England</hi> and all his <hi>Maieſties D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minions,</hi> without the ſhedding of more bloud he deſireth that the treaty may go on with all poſſible ſpeed, great hopes being good upon the commencement thereof, that it will be concluded in peace and amity, which was<lb/> 
+               <hi>Signed O. Cromwell.</hi>
+            </p>
+            <p>And as a further aſſurance hereof, Letters from the Iſle of VVight to the parliament, do aſcertain, that his <hi>Maieſty</hi> after ſeverall dayes debate, hath yeelded to the moſt materiall clauſes in the ſecond Bill concer<g ref="char:EOLhyphen"/>ning the Church, and ſettlement of Religion. By the
+<pb n="6" facs="tcp:103446:5"/>next, there is little doubt, but we ſhal hear that he hath paſſed his Royall word to paſs this Bil, as he hath done already for the firſt.</p>
+            <p>From St. <hi>Albans</hi> we had the copy of a Letter to his Excellency the Lord <hi>Fairfax.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Excellency,</salute>
+                  </opener>
+                  <p>WE make bold being preſt in ſpirit, to repreſent to you, as the ground of our fears, ſo the mat<g ref="char:EOLhyphen"/>ter of our deſires. It hath pleaſed God after much plottings &amp; endeavours of the old and new malignants to crown the Army with great ſucceſs; and although that calls for Juſtice, little or none is done, and leſs is like to be done, unleſs your Excellency preſently ap<g ref="char:EOLhyphen"/>pears to do ſomthing, and the Army with you, to be a leading cauſe to us; we wait for it. Inſtead of Juſtice, behold a treaty with them for peace, that God ſpeakes no peace to, and inſtead of owning juſt petitions, they are laid aſide: ſome imployed in the treaty, not long ſince voted the Army Rebels; what that prognoſticats in the future, when they have power, we leave to your Excellency to judge. So hoping you will ſo far honor us, as to ſtand by the Kingdom and the Army in their juſt rights and priviledge.</p>
+                  <closer>
+                     <signed>VVe ſubſcribe, Your Excellencies humble ſervants,
+<list>
+                           <item>Lieu. Col. <hi>Paul Hobſon.</hi>
+                           </item>
+                           <item>Major <hi>Cobbett,</hi> &amp;c.</item>
+                        </list>
+                     </signed>
+                     <dateline>Newcastle <date>22 Sep. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103446:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
